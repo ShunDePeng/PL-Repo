@@ -3,16 +3,16 @@
 
 授課教師：蔡芸琤老師 
 
-姓名：彭順德 
+姓名：彭順德 (Shun De, Peng) 
 
-系級：教育系2年級 
+系級：教育系2年級 D.Edu Sophomore
 
-## 課程筆記區
-
-
-## 作業連結區
+## Notes
 
 
-## 專題連結區
+## Assignments 
 
-### [Markdown 語法說明](https://markdown.tw/)
+
+## Projects 
+
+### [Markdown Explanation](https://markdown.tw/)
