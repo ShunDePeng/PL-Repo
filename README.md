@@ -12,7 +12,8 @@
 
 ## Assignments 
 
-## Practices(Not graded)
+
+## Practices(Not scored)
 * [Week2_Practice](https://github.com/ShunDePeng/PL-Repo/blob/main/Week2/Week2_Practice.ipynb)
 
 ## Projects 
